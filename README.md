@@ -1,2 +1,5 @@
-# sample
-sample code for random requests
+# Sample Repos
+## Array flatten sample code.
+
+Just a demo applicaton
+# run : python3 main.py
